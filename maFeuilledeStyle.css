@@ -1,25 +1,8 @@
-h1
-{
-text-align: center;
-background-image: mon_image.jpg;
+body {
+background-color: black;
 }
-h2
-{
-font-family: Verdana;
-font-style: italic;
-color: green;
-}
-#para1
-{
-font-family: times;
-font-size: 19px;
-}
-#para2
-{
-font-family: arial;
-font-size: 12px;
-}
-a
-{
-color: red;
+h1 {
+font-family: Serif;
+font-size: 50px
+color: white;
 }
