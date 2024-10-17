@@ -4,14 +4,14 @@ background-color: black;
 h2 {
 color: white;
 text-align: center;
-font-family: roboto;
+font-family: Roboto;
 width: 20%
 }
 h1 {
 color: white;
 text-align: center;
 font-family: Serif;
-width: 40%
+width: 30%
 }
 menu {
 list-style-type: none;
@@ -20,7 +20,7 @@ padding: 0
 }
 #text1, #text2, #text3, #text4 {
 color: white;
-font-size: 20px
-font-family: 'Roboto', sans-serif;
+font-size: 5%;
+font-family: Roboto;
 font-weight: bold
 }
