@@ -46,7 +46,7 @@ input[type="checkbox"] {
     left: 10px;
     z-index: 11;
 }
-.sidebar {
+.bardedroite{
     position: fixed;
     top: 0;
     left: -250px;
@@ -57,7 +57,7 @@ input[type="checkbox"] {
     transition: left 0.3s ease;
 }
 
-input[type="checkbox"]:checked ~ .sidebar {
+input[type="checkbox"]:checked ~ .bardedroite {
     left: 0;
 }
 .logo i {
