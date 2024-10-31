@@ -10,16 +10,6 @@ body {
     justify-content: center;
     min-height: 100vh;
 }
-
-h2 {
-    color: white;
-    text-align: center;
-    font-family: 'Roboto', sans-serif;
-    font-weight: bold;
-    font-size: 2rem;
-    margin: 20px 0;
-}
-
 h1 {
     color: white;
     text-align: center;
@@ -38,17 +28,14 @@ font-weight: bold
     padding: 0;
     box-sizing: border-box;
 }
-
 header {
     position: fixed;
     width: 100%;
     z-index: 10;
 }
-
 input[type="checkbox"] {
     display: none;
 }
-
 .toggle {
     font-size: 1.8rem;
     color: white;
@@ -59,7 +46,6 @@ input[type="checkbox"] {
     left: 10px;
     z-index: 11;
 }
-
 .sidebar {
     position: fixed;
     top: 0;
@@ -74,18 +60,15 @@ input[type="checkbox"] {
 input[type="checkbox"]:checked ~ .sidebar {
     left: 0;
 }
-
 .logo i {
     font-size: 1.8rem;
     color: #ff6b6b;
     margin-left: 20px;
 }
-
 .menu {
     list-style: none;
     margin-top: 20px;
 }
-
 .menu li {
     padding: 15px 20px;
 }
@@ -96,7 +79,6 @@ input[type="checkbox"]:checked ~ .sidebar {
     font-weight: bold;
     transition: color 0.3s ease;
 }
-
 .menu li a:hover {
     color: #ff6b6b;
 }
