@@ -48,6 +48,12 @@ input[type="checkbox"] {
     top: 10px;
     left: 10px;
     z-index: 11;
+    transition: transform 0.3s ease;
+}
+
+/* Rotation de l'icône lorsque le menu est ouvert */
+input[type="checkbox"]:checked + .toggle {
+    transform: rotate(90deg);
 }
 
 .sidebar {
