@@ -74,5 +74,5 @@ input[type="checkbox"]:checked ~ .sidebar {
     transition: color 0.3s ease;
 }
 .menu li a:hover {
-    color: #ff6b6b;
+    color: #999;
 }
