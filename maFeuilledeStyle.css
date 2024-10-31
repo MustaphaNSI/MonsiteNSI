@@ -56,14 +56,8 @@ input[type="checkbox"] {
     padding-top: 20px;
     transition: left 0.3s ease;
 }
-
 input[type="checkbox"]:checked ~ .sidebar {
     left: 0;
-}
-.logo i {
-    font-size: 1.8rem;
-    color: #ff6b6b;
-    margin-left: 20px;
 }
 .menu {
     list-style: none;
