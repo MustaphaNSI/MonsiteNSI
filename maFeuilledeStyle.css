@@ -47,11 +47,6 @@ input[type="checkbox"] {
     top: 10px;
     left: 10px;
     z-index: 11;
-    transition: transform 0.3s ease;
-}
-
-input[type="checkbox"]:checked + .toggle {
-    transform: rotate(90deg);
 }
 
 .sidebar {
