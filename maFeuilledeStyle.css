@@ -1,5 +1,8 @@
 body {
 background-color: black;
+font-family: Arial, sans-serif;
+background-color: #000;
+color: white;
 }
 h2 {
 color: white;
@@ -24,12 +27,6 @@ font-weight: bold
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
-
-body {
-    font-family: Arial, sans-serif;
-    background-color: #000;
-    color: white;
 }
 
 header {
