@@ -9,13 +9,15 @@ color: white;
 text-align: center;
 font-family: Roboto;
 font-weight: bold;
-width: 20%  
+font-size: 2rem;
+margin: 20px 0
 }
 h1 {
 color: white;
 text-align: center;
 font-family: Serif;
-width: 40%  
+font-size: 3rem;
+margin: 20px 0
 }
 #text1, #text2, #text3, #text4 {
 color: white;
