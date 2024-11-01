@@ -82,6 +82,17 @@ input[type="checkbox"]:checked ~ .sidebar {
 .menu li a:hover {
     color: #999;
 }
+main {
+    width: 100%;
+    max-width: 500px;
+    padding: 20px;
+    background-color: #222;
+    border-radius: 8px;
+}
+form {
+    display: flex;
+    flex-direction: column;
+}
 label {
     margin-bottom: 5px;
     font-weight: bold;
