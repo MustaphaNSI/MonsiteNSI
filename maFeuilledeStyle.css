@@ -85,7 +85,8 @@ input[type="checkbox"]:checked ~ .sidebar {
 label {
     margin-bottom: 5px;
     font-weight: bold;
-    color: #111;
+    font-family: Roboto;
+    color: white;
 }
 input {
     margin-bottom: 15px;
@@ -102,7 +103,7 @@ button {
     cursor: pointer;
     font-weight: bold;
 }
-.button:hover {
+button:hover {
     background-color: #999;
     color: black;
 }
