@@ -179,12 +179,11 @@ button:hover {
     object-fit: cover
 }
 .fontcosmos {
-    max-width: 800px;
-    margin: 20px auto;
+    display: flex;
     background-color: #222;
     padding: 20px;
     border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    gap: 20px
 }
 #citatacion {
     font-style: italic;
