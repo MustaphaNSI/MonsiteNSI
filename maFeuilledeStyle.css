@@ -155,6 +155,7 @@ button:hover {
 .arts img {
     height: 200px;
     width: 300px; 
+    object-fit: cover;
     display: block
 }
 .fondphilo {
