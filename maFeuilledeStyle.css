@@ -153,8 +153,8 @@ button:hover {
     margin: 0 auto
 }
 .arts img {
-    height: 200px;
-    width: 300px; 
+    height: 400px;
+    width: 500px; 
     object-fit: cover;
     display: block
 }
