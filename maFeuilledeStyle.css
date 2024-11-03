@@ -179,17 +179,18 @@ button:hover {
     object-fit: cover
 }
 .fontcosmos {
-    display: flex;
+    max-width: 800px;
+    margin: 20px auto;
     background-color: #222;
     padding: 20px;
     border-radius: 8px;
-    gap: 20px
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 .Imagecosmos {
-    width: auto;
+    max-width: 100%;
     height: auto;
     border-radius: 8px;
-    object-fit: cover
+    margin-bottom: 20px;
 }
 .textcosmos {
     flex: 1;
