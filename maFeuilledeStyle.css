@@ -174,3 +174,10 @@ button:hover {
     height: auto;
     border-radius: 8px;
     object-fit: cover
+}
+.imagecosmos {
+    max-width: 150px;
+    margin-right: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
