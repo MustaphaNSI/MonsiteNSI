@@ -107,7 +107,8 @@ input[type="checkbox"]:checked ~ .sidebar {
     color: #999;
 }
 main {
-    max-width: 10000px;
+    max-width: 900px;
+    width: 100%;
     padding: 20px;
     background-color: #222;
     border-radius: 8px
