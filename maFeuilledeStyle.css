@@ -101,7 +101,6 @@ label {
     color: white
 }
 input, textarea {
-    width: 100%;
     margin-bottom: 15px;
     padding: 10px;
     border: none;
