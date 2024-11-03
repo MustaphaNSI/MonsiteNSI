@@ -200,4 +200,5 @@ button:hover {
     margin-right: 20px;
     border-radius: 8px;
     flex-shrink: 0;
+    transform: rotate(90deg)
 }
