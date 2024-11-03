@@ -109,16 +109,19 @@ main {
     border-radius: 8px
 }
 form {
+    max-width: 10000px;
     display: flex;
     flex-direction: column
 }
 label {
+    width: 100%;
     margin-bottom: 5px;
     font-weight: bold;
     font-family: Roboto;
     color: white
 }
 input, textarea {
+    width: 100%;
     margin-bottom: 15px;
     padding: 10px;
     border: none;
