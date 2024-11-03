@@ -37,12 +37,13 @@ h1 {
     margin-right: 150px
 }       
 #text1 {
-    text-align: center;
+    text-align: justify; 
     color: white;
-    font-size: 2rem;
-    font-family: Roboto;
-    margin-left: 250px;
-    margin-right: 250px
+    font-size: 1.5rem; 
+    font-family: Roboto; 
+    margin-top: 20px; 
+    margin-left: 0;
+    margin-right: 0
 }
 #text2 {
     text-align: justify;
