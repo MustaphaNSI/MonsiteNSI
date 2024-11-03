@@ -29,7 +29,7 @@ h1 {
 #titre2 {
     color: white;
     font-size: 3rem;
-    text-align: center;
+    text-align: start;
     font-family: Roboto;
     font-weight: bold
 }       
