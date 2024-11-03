@@ -193,3 +193,8 @@ button:hover {
 .textcosmos {
     flex: 1;
 }
+#citatacion {
+    font-style: italic;
+    color: white;
+    margin-top: 20px;
+}
