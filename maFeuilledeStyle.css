@@ -38,6 +38,15 @@ h1 {
     margin-left: 250px;
     margin-right: 250px
 }
+#text2 {
+    text-align: justify;
+    color: white;
+    font-size: 1rem;
+    font-family: Roboto;
+    margin: 20px
+    margin-left: 150px;
+    margin-right: 150px
+}
 * {
     margin: 0;
     padding: 0;
