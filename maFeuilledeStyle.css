@@ -18,7 +18,6 @@ h1 {
     margin: 20px 0
 }       
 #titre1 {
-    position: fixed;
     top: 20px;
     left: 20px;
     font-size: 4rem;
@@ -86,14 +85,12 @@ input[type="checkbox"]:checked ~ .sidebar {
     color: #999;
 }
 main {
-    margin-top: 80px;
     max-width: 500px;
     padding: 20px;
     background-color: #222;
     border-radius: 8px
 }
 form {
-    margin-top: 80px;
     display: flex;
     flex-direction: column
 }
