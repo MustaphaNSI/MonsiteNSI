@@ -159,7 +159,7 @@ button:hover {
 }
 .fondphilo {
     display: flex;
-    background-color: #222
+    background-color: #222;
     padding: 20px;
     border-radius: 8px;
     gap: 20px
@@ -169,7 +169,7 @@ button:hover {
     color: white
 }
 .imagephilo {
-    width: 250px;
+    width: auto;
     height: auto;
     border-radius: 8px;
     object-fit: cover
