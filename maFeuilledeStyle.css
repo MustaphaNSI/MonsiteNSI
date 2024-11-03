@@ -120,3 +120,16 @@ button:hover {
     background-color: #999;
     color: black
 }
+.arts {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+}
+.arts img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
