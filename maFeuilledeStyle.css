@@ -28,8 +28,8 @@ h1 {
     color: white;
     font-size: 2rem;
     font-family: Roboto;
-    margin-left: 400px;
-    margin-right: 400px
+    margin-left: 250px;
+    margin-right: 250px
 }
 * {
     margin: 0;
@@ -131,4 +131,12 @@ button:hover {
     width: 100%;
     height: auto;
     display: block;
+}
+.content-container {
+    background-color: #222;
+    border-radius: 8px;
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
