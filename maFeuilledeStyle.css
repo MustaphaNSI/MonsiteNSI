@@ -18,16 +18,15 @@ h1 {
     margin: 20px 0
 }       
 #titre1 {
-    top: 20px;
-    left: 20px;
     font-size: 4rem;
     color: white;
     font-family: Roboto;
     font-weight: bold
 }     
 #text1 {
+    text-align: center;
     color: white;
-    font-size: 1rem;
+    font-size: 2rem;
     font-family: Roboto;
     font-weight: bold
 }
