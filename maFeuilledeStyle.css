@@ -21,7 +21,10 @@ h1 {
     font-size: 5rem;
     color: white;
     font-family: Roboto;
-    font-weight: bold
+    font-weight: bold;
+    margin-top: 20px;
+    top: 0px;
+    right: 200px
 }     
 #titre2 {
     color: white;
